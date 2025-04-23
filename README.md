@@ -76,7 +76,8 @@ nor(h,a,b);
 xor(f,a,b);
 endmodule
 
- Developed by: RegisterNumber: 
+ Developed by:Harish M
+ RegisterNumber:212224110021 
  
 **Logic symbol & Truthtable**
 ![Screenshot 2025-04-21 142553](https://github.com/user-attachments/assets/88950467-0a43-418d-ba96-cef389fb9078)
